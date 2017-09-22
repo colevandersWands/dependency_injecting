@@ -23,7 +23,7 @@ var view = {
 		console.log('|  |  |  |');
 		console.log('----------');
 		console.log('|  |  |  |');
-		console.log('----------');
+		console.log('----------\n');
 	},
 	alert: function(string) {
 		console.log(string)
